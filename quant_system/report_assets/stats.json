@@ -1,0 +1,50 @@
+{
+  "full": {
+    "trades": 46,
+    "buys": 24,
+    "sells": 22,
+    "total_fee": 19356.81,
+    "total_amount": 39157086.0,
+    "avg_amount": 851241.0,
+    "first_trade": "2023-11-27",
+    "last_trade": "2026-11-10",
+    "final_position": 0.9044,
+    "force_sell": 1,
+    "notes": 4,
+    "run_signature": "7beb6f002c310dbd",
+    "data_vendor": "akshare:stock_zh_a_hist_sina(新浪/前复权)",
+    "benchmark_vendor": "akshare:index_zh_daily_sina(新浪)"
+  },
+  "in_sample": {
+    "trades": 29,
+    "buys": 15,
+    "sells": 14,
+    "total_fee": 12016.35,
+    "total_amount": 24028893.0,
+    "avg_amount": 828582.52,
+    "first_trade": "2023-11-27",
+    "last_trade": "2025-10-20",
+    "final_position": 0.0,
+    "force_sell": 1,
+    "notes": 4,
+    "run_signature": "8bc19757c56a47bb",
+    "data_vendor": "akshare:stock_zh_a_hist_sina(新浪/前复权)",
+    "benchmark_vendor": "akshare:index_zh_daily_sina(新浪)"
+  },
+  "out_sample": {
+    "trades": 17,
+    "buys": 9,
+    "sells": 8,
+    "total_fee": 7340.46,
+    "total_amount": 15128193.0,
+    "avg_amount": 889893.71,
+    "first_trade": "2025-11-27",
+    "last_trade": "2026-11-10",
+    "final_position": 0.9002,
+    "force_sell": 0,
+    "notes": 3,
+    "run_signature": "ecdc62ef53c85b84",
+    "data_vendor": "akshare:stock_zh_a_hist_sina(新浪/前复权)",
+    "benchmark_vendor": "akshare:index_zh_daily_sina(新浪)"
+  }
+}
